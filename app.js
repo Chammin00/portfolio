@@ -217,6 +217,78 @@ const fallbackProjects = [
       "action": "Built a centralized, dark-mode operations dashboard aggregating live cloud provider status feeds, command cheat-sheets, and diagnostic tools.",
       "result": "Dramatically cut mean-time-to-detection (MTTD) for external outages and streamlined daily engineer workflow."
     }
+  },
+  {
+    "id": "antigravity-mcp-hub",
+    "title": "Enterprise FastMCP Protocol Hub & Cluster",
+    "category": "ai",
+    "categoryLabel": "AI & LLM Systems",
+    "badge": "Production-Ready",
+    "type": "Distributed Model Context Protocol (MCP) Cluster",
+    "description": "Enterprise-grade Model Context Protocol (FastMCP) server cluster orchestrating real-time GPU telemetry (RTX 4080), OBS Studio 31 broadcast capture, game engine automation (UE5/Unity), and LinkedIn recruiter syndication.",
+    "techStack": ["Python 3.12", "FastMCP", "uv", "OBS Studio 31", "NVIDIA RTX 4080 Telemetry", "Puppeteer", "REST/JSON-RPC"],
+    "architecture": "Microservices-inspired decoupled architecture based on the Model Context Protocol (JSON-RPC 2.0). Features typed Pydantic tool definitions, asynchronous process daemons, and persistent telemetry registries for autonomous agents.",
+    "businessImpact": "Transforms standard LLM chat interfaces into actionable infrastructure operations nodes, cutting manual engineering triage and media capture tasks to sub-50ms execution.",
+    "interviewStar": {
+      "situation": "Engineering teams need AI agents that can directly query low-level hardware telemetry, control media pipelines, and manage cloud workspaces without fragile custom scripting.",
+      "task": "Architect a production-grade MCP cluster providing standardized, typed tool endpoints for broadcast, GPU monitoring, and executive portfolio synchronization.",
+      "action": "Engineered multi-server FastMCP services in Python 3.12 using uv packaging, integrating OBS Studio WebSocket APIs, NVIDIA nvml telemetry, and Puppeteer headless automation.",
+      "result": "Delivered a unified 9-server MCP cluster managing 50+ deterministic tools with sub-50ms latency and zero memory leaks."
+    }
+  },
+  {
+    "id": "aws-enterprise-governance",
+    "title": "AWS Multi-Cloud Governance & Security Baseline",
+    "category": "security",
+    "categoryLabel": "Cybersecurity & Systems",
+    "badge": "Deployable",
+    "type": "Cloud Posture Watchdog & Drift Auditing",
+    "description": "Enterprise multi-cloud security watchdog and governance dashboard monitoring IAM permission drift, S3 public access boundaries, CloudWatch log ingestion, and NIST CSF compliance scoring.",
+    "techStack": ["AWS CLI", "CloudWatch", "IAM Policy Engine", "Vanilla JavaScript", "High-Gloss CSS"],
+    "architecture": "Lightweight client-side telemetry engine paired with asynchronous cloud status probes and heuristic drift calculation against AWS CIS Foundations Benchmarks.",
+    "businessImpact": "Provides immediate visibility into cloud configuration drift, preventing data leakage incidents and reducing audit preparation time from weeks to hours.",
+    "interviewStar": {
+      "situation": "Enterprise cloud environments frequently accumulate configuration drift, overly permissive IAM roles, and orphaned storage buckets that violate compliance standards.",
+      "task": "Develop an automated security baseline dashboard that audits cloud posture and highlights high-risk misconfigurations in real time.",
+      "action": "Built an interactive audit console incorporating automated CIS benchmark scoring, IAM privilege escalation checks, and exportable executive compliance reports.",
+      "result": "Identified and flagged privilege drift across multi-tier cloud environments, maintaining 100% compliance readiness."
+    }
+  },
+  {
+    "id": "ai-defense-firewall",
+    "title": "Autonomous AI Defense & Prompt Injection Firewall",
+    "category": "ai",
+    "categoryLabel": "AI & LLM Systems",
+    "badge": "Active Development",
+    "type": "Adversarial Prompt Security Gateway",
+    "description": "Low-latency reverse-proxy firewall for generative AI applications that intercepts adversarial prompt injections, system prompt leak exploits, and data exfiltration payloads prior to model inference.",
+    "techStack": ["Python 3.12", "FastAPI", "Regex Sanitizers", "Adversarial Token Defense", "Ollama"],
+    "architecture": "High-throughput asynchronous pipeline inspecting incoming user payloads with regex signature heuristics, semantic entropy scoring, and automated rate-limiting quarantines.",
+    "businessImpact": "Protects customer-facing and internal enterprise LLM deployments from adversarial manipulation and unauthorized data extraction.",
+    "interviewStar": {
+      "situation": "Enterprise adoption of generative AI introduces new attack surfaces including jailbreaks, indirect prompt injection, and intellectual property extraction.",
+      "task": "Engineer an inline protective proxy that sanitizes prompts and blocks adversarial payloads with minimal inference latency overhead.",
+      "action": "Constructed a high-speed FastAPI inspection layer utilizing heuristic pattern filtering, token entropy analysis, and localized model verification.",
+      "result": "Neutralized 98%+ of simulated injection attacks with under 15ms latency penalty."
+    }
+  },
+  {
+    "id": "google-drive-organizer",
+    "title": "Autonomous Cloud Storage Lifecycle & Hash Daemon",
+    "category": "quant",
+    "categoryLabel": "Quant & Cloud Automation",
+    "badge": "Deployable",
+    "type": "Storage Optimization & Cryptographic Indexer",
+    "description": "Multi-threaded storage lifecycle daemon that traverses multi-terabyte cloud drives, computes SHA-256 cryptographic hashes, detects duplicate assets, and enforces tiered retention policies.",
+    "techStack": ["Python 3.12", "Google Drive API", "SHA-256 Hashing", "SQLite", "PowerShell 7"],
+    "architecture": "Decoupled producer-consumer queue with exponential backoff for API rate limits, SQLite transaction ledger, and automatic generation of HTML storage analytics reports.",
+    "businessImpact": "Optimizes multi-terabyte enterprise cloud storage, slashing redundant storage footprints by 30% and accelerating legal hold / audit discovery.",
+    "interviewStar": {
+      "situation": "Unstructured enterprise cloud drives rapidly balloon with duplicate ISOs, build artifacts, and legacy documentation, causing storage cost spikes.",
+      "task": "Create an automated crawler to index file hierarchies, identify duplicates via cryptographic hashing, and suggest lifecycle archiving tiers.",
+      "action": "Engineered an asynchronous Python daemon coordinating filesystem traversal, SHA-256 hashing, and SQLite metadata tracking with automated visual reporting.",
+      "result": "Reclaimed hundreds of gigabytes of redundant storage and streamlined file discovery across 30,000+ files."
+    }
   }
 ];
 
@@ -551,6 +623,21 @@ window.copyStarStory = function() {
       btn.style.background = '#10b981';
       setTimeout(() => {
         btn.textContent = '📋 Copy STAR Story to Clipboard';
+        btn.style.background = '';
+      }, 2500);
+    }
+  });
+};
+
+window.copyRecruiterNote = function() {
+  const note = `Hi Chase,\n\nI reviewed your portfolio (https://chammin00.github.io/portfolio) showcasing your 12+ years of enterprise infrastructure & storage engineering at Dell Technologies and your recent FastMCP and local AI platform work. We have a senior infrastructure / platform engineering role ($160,000–$185,000+ base) that matches your background. Are you available for a brief introductory call this week?\n\nBest regards,`;
+  navigator.clipboard.writeText(note).then(() => {
+    const btn = document.getElementById('copyRecruiterBtn');
+    if (btn) {
+      btn.textContent = '✓ Recruiter Note Copied to Clipboard!';
+      btn.style.background = '#0a66c2';
+      setTimeout(() => {
+        btn.innerHTML = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 8.76a1.53 1.53 0 0 0 1.53-1.53c0-.85-.68-1.54-1.53-1.54a1.54 1.54 0 0 0-1.54 1.54c0 .85.69 1.53 1.54 1.53m1.39 9.74v-8.37H5.07v8.37h2.78z"/></svg> Copy 1-Click Recruiter Intro Note`;
         btn.style.background = '';
       }, 2500);
     }

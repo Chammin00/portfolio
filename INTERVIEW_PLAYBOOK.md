@@ -78,13 +78,33 @@
   - Strict separation of concerns: Ingestion → Indicator Calculation (Pandas vectorized math) → Backtesting Execution Engine → CLI Visualization.
   - Built with the ultra-fast modern `uv` Python package manager and structured modular configuration.
 
+### F. Antigravity FastMCP Enterprise Protocol Cluster & AI Defense
+* **Key Interview Angle:** *Standardized AI Tool Protocols (Model Context Protocol), Hardware Telemetry & Adversarial Defense*
+* **What to highlight:**
+  - FastMCP standard: Built 9 production Model Context Protocol servers in Python 3.12 with uv packaging, exposing deterministic typed tool schemas for agents.
+  - Hardware integration: Querying real-time GPU metrics (NVIDIA RTX 4080 nvml), controlling broadcast recording pipelines (OBS Studio 31 WebSocket), and synchronizing LinkedIn recruiter syndication.
+  - Adversarial AI defense: Reverse-proxy inspection gateway that strips prompt injections and data-exfiltration payloads with sub-15ms overhead.
+
 ---
 
-## ❓ 4. High-Impact Questions to Ask the Interviewer
+## 💰 5. Salary & Compensation Negotiation Strategy ($160,000–$185,000+ Base)
+
+### The Anchoring Script (When Asked: *"What are your salary expectations?"*)
+> *"Based on the scope of this role, my 12+ years of enterprise infrastructure and SAN/NAS storage reliability at Dell Technologies, and my ability to build production-grade autonomous AI systems and FastMCP tooling on day one, I am targeting a base salary in the **$160,000 to $185,000** range, depending on bonus structure and equity. My primary focus is joining an engineering organization where I can immediately eliminate operational downtime and drive platform automation."*
+
+### Why $160k–$185k Is Justified (ROI Math for the Hiring Manager):
+1. **Unplanned Downtime Prevention:** In enterprise environments, unplanned SAN/NAS outages cost an average of **$5,600 per minute** ($300k+/hr). Maintaining >99.99% uptime pays for the entire annual salary within the first avoided incident.
+2. **Eliminating Third-Party Software Bloat:** Automated fleet management across 21,000+ endpoints saves six figures annually in redundant third-party endpoint licensing.
+3. **Dual Senior Capability (No Ramp-Up):** Hiring a separate Senior Storage Engineer ($140k+) and an AI Systems Engineer ($150k+) costs $290k+. Combining deep low-level infrastructure (RHEL 9, Dell EMC, VMware ESXi) with modern software engineering (Python, C# .NET 10, FastMCP) represents immediate dual-competency leverage.
+
+---
+
+## ❓ 6. High-Impact Questions to Ask the Interviewer
 
 Asking insightful technical questions signals senior-level ownership and architectural depth:
 
 1. *"What does your current endpoint and infrastructure observability look like? Are you primarily reacting to alerts, or do you have automated self-healing daemons in place?"*
 2. *"How are your infrastructure and security teams collaborating around zero-day patching and vulnerability remediation (NIST/CIS benchmarks)?"*
-3. *"What is the organization's stance on adopting local or private AI models for automated runbook synthesis and log triage?"*
+3. *"What is the organization's stance on adopting local or private AI models and FastMCP tooling for automated runbook synthesis and log triage?"*
 4. *"Where do you see the biggest operational bottlenecks in your current storage and hybrid-cloud deployments over the next 12–18 months?"*
+

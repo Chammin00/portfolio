@@ -1,28 +1,32 @@
 <div align="center">
 
 # Chase R. Hamilton
-### **Senior Infrastructure & Systems Engineer | AI Systems & Platform Architect**
+### **Senior Infrastructure & Storage Systems Engineer | Autonomous AI & FastMCP Platform Architect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Interactive_Demo-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=black)](https://chammin00.github.io/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Chammin00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chammin00)
+[![Target Salary](https://img.shields.io/badge/Target_Base-%24160k--%24185k%2B-10b981?style=for-the-badge)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-chaseham00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaseham00@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Dallas--Fort%20Worth%2C%20TX%20%7C%20Remote-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
 ```text
-Enterprise Infrastructure Reliability (12+ Yrs) ⇄ Autonomous AI & Modern Software Engineering
+Enterprise Infrastructure Reliability (12+ Yrs) ⇄ Autonomous AI & Model Context Protocol (FastMCP)
 ```
 
 ---
 
 </div>
 
-## 📌 Executive Summary
+## 📌 Executive Summary & $160,000+ Value Proposition
 
-Battle-tested **Senior Systems & Infrastructure Engineer** with over **12 years of hands-on enterprise leadership** across global infrastructure, mission-critical SAN/NAS storage, hybrid Linux/Windows environments, and cybersecurity compliance. 
+Battle-tested **Senior Systems & Infrastructure Engineer** with over **12 years of hands-on enterprise leadership** across global infrastructure, mission-critical SAN/NAS storage, hybrid Linux/Windows environments, and cybersecurity compliance.
 
-* ⚡ **99.99%+ Production Storage Uptime:** Directing infrastructure operations, high-priority incident triage, and SAN/NAS storage reliability across multi-tiered enterprise production environments at **Dell Technologies**.
-* 🏛️ **Multi-Tiered Enterprise Architecture:** Proven track record spanning enterprise storage arrays, high-density compute, VMware virtualization, and mission-critical data center facilities at **Digital Realty Trust**.
-* 🤖 **Autonomous AI & Modern Software Engineering:** Architecting full-stack Python (FastAPI), C# (.NET 10), and PowerShell systems including local LLM orchestration hubs, neural speech accessibility engines, automated CVE vulnerability triage platforms, and quantitative analytics engines.
+### 💼 Why I Command a $160,000 – $185,000+ Base Salary:
+1. **⚡ Zero-Downtime Enterprise SAN/NAS Reliability (>99.99% Uptime):** 12+ years directing high-priority incident triage, capacity planning, and LUN provisioning across multi-tier Dell Technologies & Rolls-Royce storage arrays. Protecting against catastrophic SLA downtime costs.
+2. **🌐 Global Scale Operations (21,000+ Distributed Systems):** Commanded automated zero-day vulnerability rollouts and PXE/OSD task sequences across military healthcare facilities worldwide, eliminating 6-figure licensing costs for legacy patching software.
+3. **🤖 Modern Autonomous AI & FastMCP Architect:** Engineered production-grade Model Context Protocol (FastMCP) server clusters (Python 3.12, uv) that bridge GPU hardware telemetry (RTX 4080), OBS broadcast controls, and local LLMs (Ollama / Qwen 2.5) with sub-50ms execution.
+4. **🛡️ Enterprise Security & Modern Full-Stack Code:** Architecting C# ASP.NET Core (.NET 10 VulnGuard platform), Red Hat Enterprise Linux (RHEL 9, LVM, SELinux), and PowerShell 7 automation ready for immediate production deployment.
 
 ---
 
@@ -34,7 +38,7 @@ Battle-tested **Senior Systems & Infrastructure Engineer** with over **12 years 
 | **Enterprise Storage & DR** | Dell EMC PowerEdge / PowerStore, NetApp, SAN/NAS, iSCSI, Fibre Channel (FC), LUN Allocation, RAID, Disaster Recovery (DR), Enterprise Backup |
 | **Virtualization & Cloud** | VMware vSphere / ESXi (7.0 / 8.0), vCenter, Hyper-V, Proxmox, Azure Cloud, Active Directory, Entra ID, GPO, DNS/DHCP, PXE/OSD Boot |
 | **Cybersecurity & Compliance** | NIST CSF, CVE Triage & Vulnerability Remediation, WSUS/SCCM Patching, Sysmon, Endpoint Telemetry, Defense Healthcare STIG / HIPAA Compliance |
-| **Modern Development & AI** | Python 3.12, C# (.NET 10), PowerShell 7, FastAPI, SQLite / EF Core, Local LLMs (Ollama / Qwen / Llama 3), Edge-TTS, OCR Engines |
+| **Modern Development & AI** | Python 3.12, C# (.NET 10), PowerShell 7, FastMCP, FastAPI, SQLite / EF Core, Local LLMs (Ollama / Qwen / Llama 3), Edge-TTS, OCR Engines |
 
 ---
 
@@ -61,6 +65,20 @@ Here are the key systems and applications actively in development, demonstrating
   - Engineered an asynchronous pipeline separating screen capture, bounding-box OCR filtering, and chunked TTS audio playback.
   - Implemented automated page turning heuristics with bookmark synchronization (`bookmarks.json`).
 
+#### [Antigravity Model Context Protocol (FastMCP) Cluster & Hub](https://github.com/Chammin00/portfolio)
+* **Category:** Distributed Model Context Protocol (FastMCP) Systems Architecture
+* **Tech Stack:** `Python 3.12` `FastMCP 2.3+` `uv` `OBS Studio 31` `NVIDIA RTX 4080 Telemetry` `Puppeteer` `JSON-RPC 2.0`
+* **Overview:** Enterprise Model Context Protocol (FastMCP) server cluster orchestrating real-time GPU hardware telemetry, OBS Studio 31 broadcast automation, game engine remote hooks (UE5/Unity), and LinkedIn recruiter syndication with sub-50ms tool execution.
+* **Key Architecture & Interview Highlights:**
+  - Architected 9 production FastMCP servers running on Python 3.12 with uv packaging and typed Pydantic tool endpoints.
+  - Controls native system hardware (NVIDIA nvml VRAM/power, OBS recording pipelines) giving autonomous agents deterministic operational access.
+
+#### [Autonomous AI Defense & Prompt Injection Firewall](https://github.com/Chammin00/portfolio)
+* **Category:** Adversarial LLM Security & Gateway Defense
+* **Tech Stack:** `Python 3.12` `FastAPI` `Regex Sanitizers` `Token Entropy Scoring` `Ollama`
+* **Overview:** Low-latency reverse proxy firewall intercepting adversarial prompt injections, system prompt extraction, and data exfiltration payloads prior to model inference.
+* **Business Impact:** Neutralizes 98%+ of simulated injection attacks with under 15ms latency overhead.
+
 #### [Autonomous Invoice & BOL Reconciliation Engine](https://github.com/Chammin00/invoice-bol-reconciliation)
 * **Category:** B2B AI Operations & Enterprise Accounting
 * **Tech Stack:** `FastAPI` `Python 3.12` `PyPDF2` `SQLite` `Jinja2` `Pytest`
@@ -70,6 +88,12 @@ Here are the key systems and applications actively in development, demonstrating
 ---
 
 ### 2. 🛡️ Enterprise Cybersecurity & Systems Infrastructure
+
+#### [AWS Multi-Cloud Governance & Security Baseline](https://github.com/Chammin00/portfolio)
+* **Category:** Cloud Posture Watchdog & Drift Auditing
+* **Tech Stack:** `AWS CLI` `CloudWatch` `IAM Policy Engine` `JavaScript SPA` `Security Baseline`
+* **Overview:** Enterprise multi-cloud security watchdog and governance dashboard monitoring IAM permission drift, S3 public access boundaries, and CloudWatch log ingestion against AWS CIS Foundations Benchmarks.
+* **Business Impact:** Cuts audit preparation time from weeks to hours and prevents unauthorized privilege escalation in enterprise clouds.
 
 #### [Sentinel PC Security Guard](https://github.com/Chammin00/sentinel-pc-security-guard)
 * **Category:** Endpoint Threat Auditing & Hardening Suite
@@ -189,8 +213,22 @@ timeline
 
 ---
 
-## 📬 Contact & Links
-* 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
-* 🐙 **GitHub:** [github.com/Chammin00](https://github.com/Chammin00)
-* 📧 **Email:** [chaseham00@gmail.com](mailto:chaseham00@gmail.com)
+## 📬 Contact & Executive Recruiter Fast-Track
+* 💼 **LinkedIn:** [Connect with Chase on LinkedIn](https://linkedin.com)
+* 🚀 **Interactive Portfolio Demo:** [chammin00.github.io/portfolio](https://chammin00.github.io/portfolio)
+* 🐙 **GitHub Organization:** [github.com/Chammin00](https://github.com/Chammin00)
+* 📧 **Direct Inquiries:** [chaseham00@gmail.com](mailto:chaseham00@gmail.com) | [chaserhamilton@gmail.com](mailto:chaserhamilton@gmail.com)
+* 📞 **Phone:** (469) 878-2466
 * 📍 **Location:** Dallas-Fort Worth, TX (Open to 100% Remote & Select Travel)
+* 💰 **Target Base Salary:** **$160,000 – $185,000+ Base** (Total Compensation: $190,000 – $225,000+)
+
+### 📋 1-Click Recruiter Intro Template:
+```text
+Hi Chase,
+
+I reviewed your portfolio (https://chammin00.github.io/portfolio) showcasing your 12+ years of enterprise infrastructure & storage engineering at Dell Technologies and your recent FastMCP and local AI platform work. We have a senior infrastructure / platform engineering role ($160,000–$185,000+ base) that matches your background. Are you available for a brief introductory call this week?
+
+Best regards,
+[Recruiter Name]
+```
+
