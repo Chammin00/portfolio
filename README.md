@@ -23,7 +23,7 @@ Enterprise Infrastructure Reliability (12+ Yrs) ⇄ Autonomous AI & Model Contex
 Battle-tested **Senior Systems & Infrastructure Engineer** with over **12 years of hands-on enterprise leadership** across global infrastructure, mission-critical SAN/NAS storage, hybrid Linux/Windows environments, and cybersecurity compliance.
 
 ### 💼 Why I Command a $160,000 – $185,000+ Base Salary:
-1. **⚡ Zero-Downtime Enterprise SAN/NAS Reliability (>99.99% Uptime):** 12+ years directing high-priority incident triage, capacity planning, and LUN provisioning across multi-tier Dell Technologies & Rolls-Royce storage arrays. Protecting against catastrophic SLA downtime costs.
+1. **⚡ Zero-Downtime Enterprise SAN/NAS Reliability (>99.99% Uptime):** 12+ years directing high-priority incident triage, capacity planning, and LUN provisioning across multi-tier Dell Technologies enterprise storage arrays. Protecting against catastrophic SLA downtime costs.
 2. **🌐 Global Scale Operations (21,000+ Distributed Systems):** Commanded automated zero-day vulnerability rollouts and PXE/OSD task sequences across military healthcare facilities worldwide, eliminating 6-figure licensing costs for legacy patching software.
 3. **🤖 Modern Autonomous AI & FastMCP Architect:** Engineered production-grade Model Context Protocol (FastMCP) server clusters (Python 3.12, uv) that bridge GPU hardware telemetry (RTX 4080), OBS broadcast controls, and local LLMs (Ollama / Qwen 2.5) with sub-50ms execution.
 4. **🛡️ Enterprise Security & Modern Full-Stack Code:** Architecting C# ASP.NET Core (.NET 10 VulnGuard platform), Red Hat Enterprise Linux (RHEL 9, LVM, SELinux), and PowerShell 7 automation ready for immediate production deployment.
