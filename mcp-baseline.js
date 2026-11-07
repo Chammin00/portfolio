@@ -26,7 +26,7 @@
         status: "Active",
         toolsCount: 14,
         description: "OBS Studio 31, NVIDIA ShadowPlay AV1 & Xbox Game Bar DVR orchestration with real-time frame telemetry.",
-        targetProjects: ["Record my Gameplay", "game studio", "youtube shorts edit for gaming"]
+        targetProjects: ["Record my Gameplay", "game studio", "youtube shorts edit for gaming", "Game Library"]
       },
       {
         id: "game-studio",
@@ -37,7 +37,7 @@
         status: "Active",
         toolsCount: 18,
         description: "Unreal Engine 5.8 C++, Unity 6, Godot 4 automation, live PIE control, and binary ROM header/IPS modding.",
-        targetProjects: ["game studio", "game mods", "REA", "reverse engineer applications", "mobile game"]
+        targetProjects: ["game studio", "game mods", "REA", "reverse engineer applications", "mobile game", "Game Library"]
       },
       {
         id: "github",
@@ -59,7 +59,7 @@
         status: "Active",
         toolsCount: 7,
         description: "Chromium automation for dynamic SPA rendering, DOM scraping, form entry, and visual layout evaluation.",
-        targetProjects: ["deal Finder", "track most wanted", "Track Home Value", "spam block", "bot finder"]
+        targetProjects: ["deal Finder", "track most wanted", "Track Home Value", "spam block", "bot finder", "Game Library"]
       },
       {
         id: "google-drive",
@@ -93,28 +93,6 @@
         toolsCount: 3,
         description: "Multi-modal Gemini 2.5 Flash & Pro reasoning models with ultra-deep 2M+ token contexts.",
         targetProjects: ["agent 365", "ai defense", "Choogle", "My Custom Gui", "project refinement"]
-      },
-      {
-        id: "crunchyroll",
-        name: "Crunchyroll & Celestial Planetarium MCP",
-        category: "Media & Streaming",
-        color: "#F97316",
-        icon: "🌌",
-        status: "Active",
-        toolsCount: 4,
-        description: "Media progress tracking, catalog search, and 3D celestial planetarium mapping across anime streaming libraries.",
-        targetProjects: ["anime", "My Planetarium"]
-      },
-      {
-        id: "linkedin",
-        name: "LinkedIn Executive Syndication MCP",
-        category: "Executive Recruiter Ops",
-        color: "#0A66C2",
-        icon: "💼",
-        status: "Active",
-        toolsCount: 5,
-        description: "Model Context Protocol server for LinkedIn profile optimization, executive headline algorithms, featured card syndication, and high-impact project announcements targeting $160k+ salary roles.",
-        targetProjects: ["Github Portfolio", "portfolio", "MCP"]
       }
     ]
   };

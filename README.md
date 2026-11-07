@@ -65,6 +65,22 @@ Here are the key systems and applications actively in development, demonstrating
   - Engineered an asynchronous pipeline separating screen capture, bounding-box OCR filtering, and chunked TTS audio playback.
   - Implemented automated page turning heuristics with bookmark synchronization (`bookmarks.json`).
 
+#### [Xbox PC App & Game Library Clean-Room Reconstruction](https://github.com/Chammin00/game-library)
+* **Category:** Desktop Systems UI Optics & Real-Time Hardware Telemetry
+* **Tech Stack:** `React 19` `Tailwind CSS` `FastMCP 2.3+` `Python 3.12` `NVIDIA RTX 4080 Telemetry` `High-Gloss Lacquer`
+* **Overview:** 100% clean-room visual reconstruction of the Xbox PC desktop app and game launcher with zero Electron runtime bloat, $100\text{vw} \times 100\text{vh}$ enterprise shell, and live FastMCP telemetry integration.
+* **Key Architecture & Interview Highlights:**
+  - Bypasses legacy Electron DOM trees entirely via pure React/Tailwind clean-room reverse engineering.
+  - Asynchronous FastMCP daemon (`mcp_xbox_sync.py`) bridges live Game Bar DVR capture triggers and GPU thermal/memory telemetry directly into UI HUD.
+
+#### [Microsoft 365 Enterprise Suite & Autonomous Agent Copilot](https://github.com/Chammin00/agent-365)
+* **Category:** Enterprise Cloud Office Suite & Multi-Agent Copilot Testbed
+* **Tech Stack:** `Python 3.12` `FastAPI` `Vanilla JS / DOM Engines` `Formula Parser` `Pytest`
+* **Overview:** Authentic 1-to-1 web replica of the Microsoft 365 productivity suite (Word, Excel, PowerPoint, Outlook, OneDrive) engineered as an air-gapped testbed for autonomous multi-agent AI copilots.
+* **Key Architecture & Interview Highlights:**
+  - High-fidelity in-browser editors with spreadsheet formula calculation engine, presentation runner, and mail routing.
+  - Covered by 15 automated pytest test suites with zero external cloud dependencies.
+
 #### [Antigravity Model Context Protocol (FastMCP) Cluster & Hub](https://github.com/Chammin00/portfolio)
 * **Category:** Distributed Model Context Protocol (FastMCP) Systems Architecture
 * **Tech Stack:** `Python 3.12` `FastMCP 2.3+` `uv` `OBS Studio 31` `NVIDIA RTX 4080 Telemetry` `Puppeteer` `JSON-RPC 2.0`
@@ -89,6 +105,17 @@ Here are the key systems and applications actively in development, demonstrating
 
 ### 2. 🛡️ Enterprise Cybersecurity & Systems Infrastructure
 
+#### [VulnGuard Enterprise Vulnerability Management Platform](https://github.com/Chammin00/vulnguard)
+* **Category:** Enterprise Vulnerability Management & Compliance Engine
+* **Tech Stack:** `C#` `ASP.NET Core .NET 10` `EF Core` `SQLite` `NIST CSF`
+* **Overview:** Production-grade vulnerability management and patch velocity tracking platform built on .NET 10.0 and EF Core. Features automated patch tracking, system hardening services, cryptography tools, and executive security reporting aligned with NIST CSF.
+* **Business Impact:** Accelerates remediation velocity, eliminates alert fatigue, and streamlines compliance auditing for Linux and Windows infrastructure.
+
+#### [Choogle IT Knowledge & Multi-Cloud Outage Portal](https://github.com/Chammin00/Choogle)
+* **Category:** Multi-Tool IT Operations & Outage Intelligence Portal
+* **Tech Stack:** `JavaScript SPA` `REST APIs` `PowerShell Automation` `High-Gloss Lacquer`
+* **Overview:** Comprehensive IT engineering knowledgebase and multi-cloud service outage dashboard with built-in certification cheat sheets (RHCSA, CCNA, VMware, DLM, PowerShell), task management, and Chai AI support assistant.
+
 #### [AWS Multi-Cloud Governance & Security Baseline](https://github.com/Chammin00/portfolio)
 * **Category:** Cloud Posture Watchdog & Drift Auditing
 * **Tech Stack:** `AWS CLI` `CloudWatch` `IAM Policy Engine` `JavaScript SPA` `Security Baseline`
@@ -109,6 +136,12 @@ Here are the key systems and applications actively in development, demonstrating
 ---
 
 ### 3. 📈 Quantitative Analytics & Desktop Automation
+
+#### [Autonomous Cloud Storage Lifecycle & Hash Daemon](https://github.com/Chammin00/cloud-drive-organizer)
+* **Category:** Storage Lifecycle Optimization & Cryptographic Indexing
+* **Tech Stack:** `Python 3.12` `Google Drive API` `SHA-256 Hashing` `SQLite` `PowerShell 7`
+* **Overview:** Multi-threaded storage lifecycle daemon that traverses multi-terabyte cloud drives, computes SHA-256 cryptographic hashes, detects duplicate assets, and enforces tiered retention policies.
+* **Business Impact:** Slashes redundant storage footprints by 30% and accelerates legal hold / audit discovery across 30,000+ files.
 
 #### [StockWatch Quant Screener & Backtester](https://github.com/Chammin00/stock-watch)
 * **Category:** Algorithmic Finance & Quantitative Screener
@@ -135,7 +168,17 @@ Here are the key systems and applications actively in development, demonstrating
 #### [RHCSA EX200 Interactive Terminal & Study Kit](https://github.com/Chammin00/rhcsa-ex200)
 * **Category:** Hands-on Linux CLI Lab Environment
 * **Tech Stack:** `Interactive Web Terminal` `RHEL 9 CLI Parser` `Bash Emulation`
-* **Overview:** In-browser terminal emulator mimicking Red Hat Enterprise Linux 9 CLI. Provides realistic grading scenarios for LVM storage, SELinux policies, user permissions, and systemd units without needing local VM setups.
+* **Overview:** In-browser terminal emulator mimicking Red Hat Enterprise Linux 9 CLI with codeXchange 22-task V10 complete exam suite. Provides realistic grading scenarios for LVM storage, SELinux policies, user permissions, and systemd units without needing local VM setups.
+
+#### [Amina AAC & Systematic Phonics Studio](https://github.com/Chammin00/aac)
+* **Category:** Universal Augmentative Communication & Phonics Platform
+* **Tech Stack:** `TypeScript` `React 19` `Vite` `PWA` `Web Speech API` `Open Board Format (OBF)`
+* **Overview:** Offline-first AAC device and systematic phonics literacy platform compliant with Open Board Format (OBF) and WCAG 2.1 AAA. Combines motor planning sentence grids with decodable tactile sound buttons and natural voice narration.
+
+#### [Chess Clash 10 Kingdoms Mobile & Web Engine](https://github.com/Chammin00/chess-clash)
+* **Category:** Tactical Chess Education & Cross-Platform Mobile Engine
+* **Tech Stack:** `React Native` `Expo 58` `TypeScript` `React 19` `AsyncStorage` `Vector Graphics`
+* **Overview:** Cross-platform tactical chess engine and kingdom campaign game built with React Native and Expo. Features hardware-accelerated VectorPiece rendering, dynamic tactical themes, offline engine evaluation, and zero ad bloat.
 
 ---
 

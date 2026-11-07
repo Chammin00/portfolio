@@ -151,37 +151,6 @@
         { "name": "gemini_count_tokens", "description": "Calculate token consumption for prompt payloads" },
         { "name": "gemini_list_models", "description": "List all accessible Google AI Studio foundation models" }
       ]
-    },
-    {
-      "id": "crunchyroll",
-      "name": "Crunchyroll & Celestial Planetarium MCP",
-      "category": "Media & Streaming",
-      "description": "Media progress tracking, catalog search, and 3D celestial planetarium mapping across anime streaming libraries.",
-      "runtime": "Python 3.12 / FastMCP",
-      "status": "Online",
-      "projectTargets": ["anime", "My Planetarium"],
-      "tools": [
-        { "name": "crunchyroll_get_profile", "description": "Inspect user profile, completion rates, and streaming statistics" },
-        { "name": "crunchyroll_get_watchlist", "description": "Filter watchlist and library status" },
-        { "name": "crunchyroll_get_series_details", "description": "Retrieve season counts and episode metadata" },
-        { "name": "crunchyroll_get_planetarium_data", "description": "Export 3D celestial coordinate nodes for WebGL planetarium" }
-      ]
-    },
-    {
-      "id": "linkedin",
-      "name": "LinkedIn Executive Syndication MCP",
-      "category": "Executive Marketing & Recruiter Ops",
-      "description": "Model Context Protocol server for LinkedIn profile optimization, executive headline algorithms, featured media syndication, and high-impact project announcements targeting $160k+ salary roles.",
-      "runtime": "Python 3.12 / FastMCP",
-      "status": "Online",
-      "projectTargets": ["Github Portfolio", "portfolio", "MCP"],
-      "tools": [
-        { "name": "linkedin_get_profile_headline_variants", "description": "Generates 5 high-converting headlines optimized for 220 chars and recruiter SEO targeting $160,000–$185,000+" },
-        { "name": "linkedin_export_executive_about", "description": "Exports full executive narrative highlighting 12+ years enterprise experience, >99.99% uptime, 21k+ endpoints, and FastMCP" },
-        { "name": "linkedin_export_featured_section", "description": "Generates structured media cards and links for LinkedIn Featured section" },
-        { "name": "linkedin_generate_project_announcement", "description": "Creates viral, technical engineering announcement posts for recent portfolio projects" },
-        { "name": "linkedin_sync_portfolio_status", "description": "Inspects portfolio synchronization status and validates canonical links" }
-      ]
     }
   ]
 }
