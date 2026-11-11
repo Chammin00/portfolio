@@ -101,6 +101,24 @@ Here are the key systems and applications actively in development, demonstrating
 * **Overview:** High-value enterprise operations engine that ingests vendor PDF invoices and Bills of Lading, extracts line items via deterministic regex/OCR algorithms, reconciles discrepancies in SQLite, and generates audit reports.
 * **Business Impact:** Solves vendor overbilling bottlenecks in distribution and supply chain logistics. Includes a 100% test pass rate in pytest suite.
 
+#### [ApexPulse 3D Gallery & YouTube Highlight Studio](https://github.com/Chammin00/youtube-channels)
+* **Category:** Three.js 3D Virtual Gallery & Automated Audio-Video Highlight Studio
+* **Tech Stack:** Three.js WebGL Python 3.12 PowerShell 7 FFmpeg YouTube Data API v3 FastMCP
+* **Overview:** Interactive 3D museum exhibition hallway and automated video highlight production studio built with Three.js, real 1K Poly Haven PBR textures, licensed studio audio mixing, and automated YouTube Shorts publishing.
+* **Key Architecture & Interview Highlights:**
+  - First-person 3D exhibition corridor with PBR textures, 13 arched windows, spatial acoustics, and dual visual modes.
+  - Engineered an automated FFmpeg render engine with -18dB dynamic sidechain audio ducking for commentary over background tracks.
+  - Headless OAuth2 YouTube Data API v3 automation daemon with deterministic tag, title, and scheduling queues.
+
+#### [How to Train Your AI: Autonomous Multi-Project Ecosystem](https://github.com/Chammin00/how-to-train-your-ai)
+* **Category:** Autonomous Local LLM Training & Knowledge Alignment Engine
+* **Tech Stack:** Python 3.12 Ollama DeepSeek-R1 Llama 3 JSONL Datasets PowerShell 7 Windows Task Scheduler
+* **Overview:** Centralized autonomous training pipeline and knowledge extraction engine that extracts code patterns and architecture across 38+ repositories to train, align, and specialize local LLMs (via Ollama & DeepSeek-R1) for software engineering and automated operations.
+* **Key Architecture & Interview Highlights:**
+  - Python knowledge extraction daemon (extract_project_knowledge.py) continuously parsing local workspaces into structured JSONL training corpora.
+  - Compiles tailored Modelfiles (project-forge, dev-deepseek, gamecraft-ai) for private local inference with zero cloud data exposure.
+  - Automated nightly retraining loops and Git state checkpoints managed via Windows automation.
+
 ---
 
 ### 2. 🛡️ Enterprise Cybersecurity & Systems Infrastructure
