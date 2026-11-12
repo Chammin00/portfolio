@@ -110,6 +110,15 @@ Here are the key systems and applications actively in development, demonstrating
   - Engineered an automated FFmpeg render engine with -18dB dynamic sidechain audio ducking for commentary over background tracks.
   - Headless OAuth2 YouTube Data API v3 automation daemon with deterministic tag, title, and scheduling queues.
 
+#### [Deep Space Planetary Observatory & Sector Atlas](https://github.com/Chammin00/planetarium)
+* **Category:** Interactive 3D Exoplanetary Observatory & Bidirectional Agent Uplink
+* **Tech Stack:** `Three.js` `WebGL` `HTML5 Canvas` `JavaScript (ES6+)` `Antigravity UI Extension Bridge` `High-Gloss Lacquer Optics` `FastMCP`
+* **Overview:** Interactive exoplanetary star sector visualization charting 64 celestial bodies with astronomical physical metrics, 3D rotating holograms, and native bidirectional IPC agent dispatching directly into Google Antigravity.
+* **Key Architecture & Interview Highlights:**
+  - Engineered panoramic wide-aspect elliptical orbital projections with auto-fit viewport scaling (88-92% screen coverage).
+  - Integrated 1-click Antigravity prompt dispatching via native sidecar IPC bridge and universal clipboard uplink.
+  - Packaged as an official Antigravity UI Extension plugin for in-editor telemetry and autonomous task dispatch.
+
 #### [How to Train Your AI: Autonomous Multi-Project Ecosystem](https://github.com/Chammin00/how-to-train-your-ai)
 * **Category:** Autonomous Local LLM Training & Knowledge Alignment Engine
 * **Tech Stack:** Python 3.12 Ollama DeepSeek-R1 Llama 3 JSONL Datasets PowerShell 7 Windows Task Scheduler
@@ -168,6 +177,15 @@ Here are the key systems and applications actively in development, demonstrating
 * **Key Architecture & Interview Highlights:**
   - Built with modern `uv` workspace structure and strict typing.
   - Separates data ingestion, indicator calculations, backtesting strategies, and automated CLI execution.
+
+#### [Antigravity Projects Directory & 3D Art Gallery Studio](https://github.com/Chammin00/index-folder)
+* **Category:** Interactive Multi-Project Registry & Three.js 3D Virtual Art Gallery
+* **Tech Stack:** `HTML5 / Canvas` `Three.js` `WebGL` `Vanilla JavaScript (ES6+)` `High-Gloss Lacquer CSS` `PowerShell 7`
+* **Overview:** Central mission control and interactive multi-project workspace index categorizing 60+ engineering repositories across cybersecurity, gaming, AI, web apps, and finance with a first-person Three.js 3D virtual museum tour.
+* **Key Architecture & Interview Highlights:**
+  - Structured categorical registry grouping 60+ local projects across 5 domain wings with Windows shortcut launchers and metadata manifests.
+  - Built a 60fps first-person 3D museum corridor featuring radar HUD minimap, VIP automated tour mode, and interactive modal launchers.
+  - Eliminated workspace cognitive friction with sub-10ms filter latency and responsive layout optics.
 
 #### [Track Home Value Real Estate Analytics](https://github.com/Chammin00/track-home-value)
 * **Category:** Automated Property Equity Tracker

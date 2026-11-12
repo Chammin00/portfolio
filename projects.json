@@ -535,5 +535,57 @@
             "action": "Engineered an automated knowledge extractor scanning 38+ local project workspaces, structured domain datasets into JSONL corpora, compiled role-specific Modelfiles, and implemented scheduled retraining loops.",
             "result": "Achieved tailored, highly context-aware local AI assistance across game dev, infrastructure automation, and security workflows with zero cloud API dependencies."
         }
+    },
+    {
+        "id": "planetarium",
+        "title": "Deep Space Planetary Observatory & Sector Atlas",
+        "category": "ai",
+        "categoryLabel": "AI & LLM Systems",
+        "badge": "Production-Ready",
+        "type": "Interactive 3D Exoplanetary Observatory & Bidirectional Agent Uplink",
+        "description": "Interactive exoplanetary star sector visualization charting 64 celestial bodies with astronomical physical metrics, 3D rotating holograms, and native bidirectional IPC agent dispatching directly into Google Antigravity.",
+        "techStack": [
+            "Three.js",
+            "WebGL",
+            "HTML5 Canvas",
+            "JavaScript (ES6+)",
+            "Antigravity UI Extension Bridge",
+            "High-Gloss Lacquer Optics",
+            "FastMCP"
+        ],
+        "architecture": "High-performance orbital simulation engine featuring panoramic wide-aspect elliptical projections, real-time procedural celestial rendering, dynamic audio acoustics, and an interactive telemetry deck equipped with 1-click prompt dispatching directly into the Antigravity assistant conversation via native sidecar IPC.",
+        "businessImpact": "Bridges high-fidelity spatial data visualization with autonomous AI pair programming, enabling one-click task execution, code audits, and automated test triggers directly from the visual canvas.",
+        "interviewStar": {
+            "situation": "Visualizing complex multi-agent system states across dozens of distributed services requires an intuitive, high-density telemetry interface rather than flat terminal logs.",
+            "task": "Create an immersive, scientifically grounded 3D astronomical map that serves as both a system status dashboard and a direct interactive control panel for autonomous AI agents.",
+            "action": "Engineered a panoramic 64-body planetary observatory with Three.js/Canvas, integrated 1-click Antigravity prompt dispatching via native sidecar IPC, and packaged the tool as an official Antigravity UI Extension plugin.",
+            "result": "Delivered a full-viewport, 60fps interactive telemetry and agent dispatch cockpit, reducing operational prompt crafting time to zero."
+        }
+    },
+    {
+        "id": "index-folder",
+        "title": "Antigravity Projects Directory & 3D Art Gallery Studio",
+        "category": "quant",
+        "categoryLabel": "Quant & Cloud Automation",
+        "badge": "Production-Ready",
+        "type": "Interactive Multi-Project Registry & Three.js 3D Virtual Art Gallery",
+        "description": "Central mission control and interactive multi-project workspace index categorizing 60+ engineering repositories across cybersecurity, gaming, AI, web apps, and finance with a first-person Three.js 3D virtual museum tour.",
+        "techStack": [
+            "HTML5 / Canvas",
+            "Three.js",
+            "WebGL",
+            "Vanilla JavaScript (ES6+)",
+            "High-Gloss Lacquer CSS",
+            "PowerShell 7",
+            "VS Code Multi-Root Workspaces"
+        ],
+        "architecture": "Engineered a categorical registry grouping 60+ local projects across 5 domain wings with automated Windows shortcut launchers, metadata manifests, and a 60fps first-person 3D museum corridor featuring radar HUD minimap, VIP automated tour mode, and interactive modal launchers.",
+        "businessImpact": "Eliminates IDE fragmentation across massive multi-repository workspaces, providing immediate searchability, rapid context switching, and interactive 3D visual showcase capabilities.",
+        "interviewStar": {
+            "situation": "Navigating and presenting a portfolio of 60+ active repositories across disparate engineering domains causes cognitive fatigue, IDE scoping friction, and fragmented discovery.",
+            "task": "Design a unified workspace index and interactive presentation portal allowing instant project filtering, native folder launching, and an immersive 3D architectural showcase.",
+            "action": "Architected a dual-interface hub: a high-contrast searchable mission control web dashboard and a Three.js first-person 3D gallery featuring custom lighting, spatial exhibition wings, radar HUD, and auto-walk cinematic tours.",
+            "result": "Unified 60+ repositories into a single responsive hub with sub-10ms filter latency and smooth 60fps WebGL rendering across desktop and mobile displays."
+        }
     }
 ]
