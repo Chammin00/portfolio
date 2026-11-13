@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Chase R. Hamilton
 ### **Senior Infrastructure & Storage Systems Engineer | Autonomous AI & FastMCP Platform Architect**
@@ -11,30 +11,30 @@
 [![Location](https://img.shields.io/badge/Location-Dallas--Fort%20Worth%2C%20TX%20%7C%20Remote-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
 ```text
-Enterprise Infrastructure Reliability (12+ Yrs) ⇄ Autonomous AI & Model Context Protocol (FastMCP)
+Enterprise Infrastructure Reliability (12+ Yrs) â‡„ Autonomous AI & Model Context Protocol (FastMCP)
 ```
 
 ---
 
 </div>
 
-## 📌 Executive Summary & $160,000+ Value Proposition
+## ðŸ“Œ Executive Summary & $160,000+ Value Proposition
 
 Battle-tested **Senior Systems & Infrastructure Engineer** with over **12 years of hands-on enterprise leadership** across global infrastructure, mission-critical SAN/NAS storage, hybrid Linux/Windows environments, and cybersecurity compliance.
 
-### 💼 Why I Command a $160,000 – $185,000+ Base Salary:
-1. **⚡ Zero-Downtime Enterprise SAN/NAS Reliability (>99.99% Uptime):** 12+ years directing high-priority incident triage, capacity planning, and LUN provisioning across multi-tier Dell Technologies enterprise storage arrays. Protecting against catastrophic SLA downtime costs.
-2. **🌐 Global Scale Operations (21,000+ Distributed Systems):** Commanded automated zero-day vulnerability rollouts and PXE/OSD task sequences across military healthcare facilities worldwide, eliminating 6-figure licensing costs for legacy patching software.
-3. **🤖 Modern Autonomous AI & FastMCP Architect:** Engineered production-grade Model Context Protocol (FastMCP) server clusters (Python 3.12, uv) that bridge GPU hardware telemetry (RTX 4080), OBS broadcast controls, and local LLMs (Ollama / Qwen 2.5) with sub-50ms execution.
-4. **🛡️ Enterprise Security & Modern Full-Stack Code:** Architecting C# ASP.NET Core (.NET 10 VulnGuard platform), Red Hat Enterprise Linux (RHEL 9, LVM, SELinux), and PowerShell 7 automation ready for immediate production deployment.
+### ðŸ’¼ Why I Command a $160,000 â€“ $185,000+ Base Salary:
+1. **âš¡ Zero-Downtime Enterprise SAN/NAS Reliability (>99.99% Uptime):** 12+ years directing high-priority incident triage, capacity planning, and LUN provisioning across multi-tier Dell Technologies enterprise storage arrays. Protecting against catastrophic SLA downtime costs.
+2. **ðŸŒ Global Scale Operations (21,000+ Distributed Systems):** Commanded automated zero-day vulnerability rollouts and PXE/OSD task sequences across military healthcare facilities worldwide, eliminating 6-figure licensing costs for legacy patching software.
+3. **ðŸ¤– Modern Autonomous AI & FastMCP Architect:** Engineered production-grade Model Context Protocol (FastMCP) server clusters (Python 3.12, uv) that bridge GPU hardware telemetry (RTX 4080), OBS broadcast controls, and local LLMs (Ollama / Qwen 2.5) with sub-50ms execution.
+4. **ðŸ›¡ï¸ Enterprise Security & Modern Full-Stack Code:** Architecting C# ASP.NET Core (.NET 10 VulnGuard platform), Red Hat Enterprise Linux (RHEL 9, LVM, SELinux), and PowerShell 7 automation ready for immediate production deployment.
 
 ---
 
-## 🛠️ Technical Competency Matrix
+## ðŸ› ï¸ Technical Competency Matrix
 
 | Domain | Technologies & Systems |
 | :--- | :--- |
-| **Operating Systems & Linux** | Red Hat Enterprise Linux (RHEL 8/9), Ubuntu Server, CentOS, Windows Server (2012–2025), systemd, Bash, PAM/SSH Hardening, Kernel Tuning |
+| **Operating Systems & Linux** | Red Hat Enterprise Linux (RHEL 8/9), Ubuntu Server, CentOS, Windows Server (2012â€“2025), systemd, Bash, PAM/SSH Hardening, Kernel Tuning |
 | **Enterprise Storage & DR** | Dell EMC PowerEdge / PowerStore, NetApp, SAN/NAS, iSCSI, Fibre Channel (FC), LUN Allocation, RAID, Disaster Recovery (DR), Enterprise Backup |
 | **Virtualization & Cloud** | VMware vSphere / ESXi (7.0 / 8.0), vCenter, Hyper-V, Proxmox, Azure Cloud, Active Directory, Entra ID, GPO, DNS/DHCP, PXE/OSD Boot |
 | **Cybersecurity & Compliance** | NIST CSF, CVE Triage & Vulnerability Remediation, WSUS/SCCM Patching, Sysmon, Endpoint Telemetry, Defense Healthcare STIG / HIPAA Compliance |
@@ -42,11 +42,11 @@ Battle-tested **Senior Systems & Infrastructure Engineer** with over **12 years 
 
 ---
 
-## 🚀 Active Project Ecosystem (What I'm Currently Working On)
+## ðŸš€ Active Project Ecosystem (What I'm Currently Working On)
 
 Here are the key systems and applications actively in development, demonstrating practical engineering across AI systems, enterprise security, automation, and full-stack software:
 
-### 1. 🧠 Local AI & Machine Learning Systems
+### 1. ðŸ§  Local AI & Machine Learning Systems
 
 #### [Ollama Studio & AI Skill Knowledge Base](https://github.com/Chammin00/ollama-studio)
 * **Category:** Local LLM Orchestration & Enterprise Knowledge Retrieval
@@ -130,7 +130,7 @@ Here are the key systems and applications actively in development, demonstrating
 
 ---
 
-### 2. 🛡️ Enterprise Cybersecurity & Systems Infrastructure
+### 2. ðŸ›¡ï¸ Enterprise Cybersecurity & Systems Infrastructure
 
 #### [VulnGuard Enterprise Vulnerability Management Platform](https://github.com/Chammin00/vulnguard)
 * **Category:** Enterprise Vulnerability Management & Compliance Engine
@@ -162,7 +162,7 @@ Here are the key systems and applications actively in development, demonstrating
 
 ---
 
-### 3. 📈 Quantitative Analytics & Desktop Automation
+### 3. ðŸ“ˆ Quantitative Analytics & Desktop Automation
 
 #### [Autonomous Cloud Storage Lifecycle & Hash Daemon](https://github.com/Chammin00/cloud-drive-organizer)
 * **Category:** Storage Lifecycle Optimization & Cryptographic Indexing
@@ -187,6 +187,15 @@ Here are the key systems and applications actively in development, demonstrating
   - Built a 60fps first-person 3D museum corridor featuring radar HUD minimap, VIP automated tour mode, and interactive modal launchers.
   - Eliminated workspace cognitive friction with sub-10ms filter latency and responsive layout optics.
 
+#### [Chrome Tab & Bar: Multi-Project Index Hub & Extension](https://github.com/Chammin00/chrome-tab-and-bar)
+* **Category:** Chrome Browser Extension & Enterprise Full-Screen Workspace Hub
+* **Tech Stack:** Chrome Extensions (MV3) JavaScript (ES6+) HTML5 / CSS3 GitHub Primer Design Tokens High-Gloss Lacquer Optics PowerShell 7 Automation
+* **Overview:** Enterprise multi-project index hub and Manifest V3 Chrome Extension connecting 42 local engineering project index files directly into Google Chrome's bookmarks bar, new tab launcher, and side panel.
+* **Key Architecture & Interview Highlights:**
+  - Engineered an automated PowerShell and JavaScript Netscape bookmark generator (`generate-bookmarks.js` & `Install-ChromeBookmarks.ps1`) for 1-click Chrome Bookmarks Bar injection.
+  - Built a Manifest V3 New Tab and Side Panel override dashboard equipped with real-time fuzzy search (`Ctrl+K`), domain filtering, and dockable telemetry.
+  - Streamlines developer daily workflow across 42 active engineering repositories into zero-latency Chrome browser shortcuts, completely eliminating file explorer context switching.
+
 #### [Track Home Value Real Estate Analytics](https://github.com/Chammin00/track-home-value)
 * **Category:** Automated Property Equity Tracker
 * **Tech Stack:** `Python` `HTML5 / CSS3` `Chart.js` `CSV Time-Series`
@@ -194,7 +203,7 @@ Here are the key systems and applications actively in development, demonstrating
 
 ---
 
-### 4. 🎓 EdTech & Technical Certification Simulators
+### 4. ðŸŽ“ EdTech & Technical Certification Simulators
 
 #### [CompTIA Security+ (SY0-701) Exam Simulator](https://github.com/Chammin00/comptia-security-plus-simulator)
 * **Category:** Interactive Certification Preparation Platform
@@ -216,9 +225,18 @@ Here are the key systems and applications actively in development, demonstrating
 * **Tech Stack:** `React Native` `Expo 58` `TypeScript` `React 19` `AsyncStorage` `Vector Graphics`
 * **Overview:** Cross-platform tactical chess engine and kingdom campaign game built with React Native and Expo. Features hardware-accelerated VectorPiece rendering, dynamic tactical themes, offline engine evaluation, and zero ad bloat.
 
+#### [Antigravity Workspace Baselines & 3D Learning Halls](https://github.com/Chammin00/antigravity-baselines)
+* **Category:** Interactive 3D Study Suites, Spatial Habit Tracker & Workspace Standards
+* **Tech Stack:** Three.js WebGL Python 3.12 PowerShell 7 HTML5 Canvas High-Gloss Lacquer Optics FastMCP
+* **Overview:** Unified engineering baseline framework providing automated habit tracking, 3D WebGL learning halls (RHEL 9 / AWS / Children's Phonics), and enterprise multi-agent scripting standards.
+* **Key Architecture & Interview Highlights:**
+  - Combines an automated Python habit tracking and cluster analysis daemon (`baseline_tracker.py`, `analyze_habits.py`) with three high-performance Three.js 3D spatial environments (Learning Hall, Grade School Hall, and Wobbly Playroom).
+  - Features physics-based first-person spatial navigation, automated audio feedback, and standardized UI token libraries.
+  - Enforces enterprise coding, security, and UI standards across 70+ repositories while delivering gamified, spatial 3D study suites that accelerate mastery in Linux, cloud architecture, and foundational learning.
+
 ---
 
-## 💼 Enterprise Career Track Record
+## ðŸ’¼ Enterprise Career Track Record
 
 ```mermaid
 timeline
@@ -231,38 +249,38 @@ timeline
 ```
 
 ### **Dell Technologies** | *Senior Infrastructure & Storage Systems Engineer*
-**July 2019 – Present | Remote / Hybrid**
+**July 2019 â€“ Present | Remote / Hybrid**
 * Direct infrastructure operations, server availability, and storage reliability across multi-tiered enterprise production environments.
 * Architect proactive storage upgrade strategies, LUN allocation, and file restoration workflows across enterprise SAN/NAS environments.
 * Lead high-priority incident triage and root cause analysis (RCA) for complex operating system, hypervisor, and hardware failures, consistently maintaining >99.99% uptime SLAs.
 * Supervise automated patch cycles, firmware upgrades, and security hardening across mixed Windows Server and enterprise Linux environments.
 
 ### **Virtustream (Dell Technologies)** | *Senior Enterprise Cloud & Systems Engineer*
-**2017 – 2019 | Enterprise Mission-Critical Cloud**
+**2017 â€“ 2019 | Enterprise Mission-Critical Cloud**
 * Engineered and supported hyper-resilient mission-critical cloud infrastructure (IaaS) for tier-1 enterprise and SAP workloads.
 * Managed multi-tenant virtualization clusters, automated host provisioning, and storage tiering across enterprise virtual data centers (vDCs).
 * Maintained strict compliance, security boundary isolation, and continuous performance SLAs across private and hybrid cloud deployments.
 
 ### **EMC Corporation / Dell EMC** | *Storage & Systems Infrastructure Engineer*
-**2016 – 2017 | Enterprise Storage & Systems Transition**
+**2016 â€“ 2017 | Enterprise Storage & Systems Transition**
 * Managed high-density SAN/NAS storage arrays, Fibre Channel fabrics, and volume replication during the historic Dell-EMC merger transition.
 * Provisioned LUN allocations, multipath I/O configurations, and backup vaulting protocols across high-throughput production clusters.
 * Partnered with cross-functional engineering teams to standardize infrastructure management runbooks and firmware lifecycle standards.
 
-### **VCE – The Converged Infrastructure Company (EMC)** | *Converged Infrastructure & Systems Engineer*
-**2015 – 2016 | Converged Infrastructure & Cloud Platforms**
+### **VCE â€“ The Converged Infrastructure Company (EMC)** | *Converged Infrastructure & Systems Engineer*
+**2015 â€“ 2016 | Converged Infrastructure & Cloud Platforms**
 * Deployed, configured, and maintained Vblock converged infrastructure platforms integrating Cisco UCS compute, Cisco Nexus networking, EMC storage, and VMware vSphere.
 * Monitored system health, remediated hypervisor-to-storage latency bottlenecks, and executed scheduled non-disruptive platform upgrades.
 * Authored custom PowerShell and automation scripts to accelerate component discovery and host configuration audits.
 
 ### **Digital Realty Trust / Allied Barton** | *Data Center Solutions & Physical/Digital Security Lead*
-**2013 – 2014 | Hyper-Scale Colocation**
+**2013 â€“ 2014 | Hyper-Scale Colocation**
 * Maintained physical, perimeter, and access compliance protocols across hyper-scale multi-tenant colocation data centers.
 * Monitored mission-critical facility infrastructure including Power Distribution Units (PDUs), uninterruptible power supplies (UPS), and HVAC environmental telemetry archives.
 
 ---
 
-## 🎯 Interview Preparation: Key Engineering Stories (STAR Method)
+## ðŸŽ¯ Interview Preparation: Key Engineering Stories (STAR Method)
 
 ### 1. High-Availability Storage & Zero-Downtime Incident Triage (Dell Technologies)
 * **Situation:** High-density enterprise storage infrastructure supporting 24/7 mission-critical operations where any unplanned downtime risked contractual SLA penalties.
@@ -284,28 +302,28 @@ timeline
 
 ---
 
-## 📜 Certifications & Continuous Learning
-* 🛡️ **CompTIA Security+ (SY0-701)** — *Prepared / In-Flight*
-* 🐧 **Red Hat Certified System Administrator (RHCSA EX200)** — *Prepared / In-Flight*
-* 📋 **ITIL Foundation & Enterprise Service Management Frameworks**
-* 🏢 **ISO Quality & Compliance Standards Training**
+## ðŸ“œ Certifications & Continuous Learning
+* ðŸ›¡ï¸ **CompTIA Security+ (SY0-701)** â€” *Prepared / In-Flight*
+* ðŸ§ **Red Hat Certified System Administrator (RHCSA EX200)** â€” *Prepared / In-Flight*
+* ðŸ“‹ **ITIL Foundation & Enterprise Service Management Frameworks**
+* ðŸ¢ **ISO Quality & Compliance Standards Training**
 
 ---
 
-## 📬 Contact & Executive Recruiter Fast-Track
-* 💼 **LinkedIn:** [Connect with Chase on LinkedIn](https://linkedin.com)
-* 🚀 **Interactive Portfolio Demo:** [chammin00.github.io/portfolio](https://chammin00.github.io/portfolio)
-* 🐙 **GitHub Organization:** [github.com/Chammin00](https://github.com/Chammin00)
-* 📧 **Direct Inquiries:** [chaseham00@gmail.com](mailto:chaseham00@gmail.com) | [chaserhamilton@gmail.com](mailto:chaserhamilton@gmail.com)
-* 📞 **Phone:** (469) 878-2466
-* 📍 **Location:** Dallas-Fort Worth, TX (Open to 100% Remote & Select Travel)
-* 💰 **Target Base Salary:** **$160,000 – $185,000+ Base** (Total Compensation: $190,000 – $225,000+)
+## ðŸ“¬ Contact & Executive Recruiter Fast-Track
+* ðŸ’¼ **LinkedIn:** [Connect with Chase on LinkedIn](https://linkedin.com)
+* ðŸš€ **Interactive Portfolio Demo:** [chammin00.github.io/portfolio](https://chammin00.github.io/portfolio)
+* ðŸ™ **GitHub Organization:** [github.com/Chammin00](https://github.com/Chammin00)
+* ðŸ“§ **Direct Inquiries:** [chaseham00@gmail.com](mailto:chaseham00@gmail.com) | [chaserhamilton@gmail.com](mailto:chaserhamilton@gmail.com)
+* ðŸ“ž **Phone:** (469) 878-2466
+* ðŸ“ **Location:** Dallas-Fort Worth, TX (Open to 100% Remote & Select Travel)
+* ðŸ’° **Target Base Salary:** **$160,000 â€“ $185,000+ Base** (Total Compensation: $190,000 â€“ $225,000+)
 
-### 📋 1-Click Recruiter Intro Template:
+### ðŸ“‹ 1-Click Recruiter Intro Template:
 ```text
 Hi Chase,
 
-I reviewed your portfolio (https://chammin00.github.io/portfolio) showcasing your 12+ years of enterprise infrastructure & storage engineering at Dell Technologies and your recent FastMCP and local AI platform work. We have a senior infrastructure / platform engineering role ($160,000–$185,000+ base) that matches your background. Are you available for a brief introductory call this week?
+I reviewed your portfolio (https://chammin00.github.io/portfolio) showcasing your 12+ years of enterprise infrastructure & storage engineering at Dell Technologies and your recent FastMCP and local AI platform work. We have a senior infrastructure / platform engineering role ($160,000â€“$185,000+ base) that matches your background. Are you available for a brief introductory call this week?
 
 Best regards,
 [Recruiter Name]
