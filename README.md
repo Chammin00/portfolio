@@ -201,6 +201,16 @@ Here are the key systems and applications actively in development, demonstrating
 * **Tech Stack:** `Python` `HTML5 / CSS3` `Chart.js` `CSV Time-Series`
 * **Overview:** Autonomous property equity tracking script that logs monthly valuations, calculates equity appreciation, tracks amortization schedules, and renders an executive analytics dashboard.
 
+
+#### [Social Media Command Center & Cross-Platform Syndication Hub](https://github.com/Chammin00/my-social-media)
+* **Category:** Enterprise Cross-Platform Syndication & Social Command Console
+* **Tech Stack:** `JavaScript (ES6+)` `HTML5 / CSS3` `GitHub Primer Tokens` `High-Gloss Lacquer Optics` `PowerShell 7 Automation` `Web Speech API` `FastMCP Telemetry HUD`
+* **Overview:** Full-screen enterprise command console orchestrating multi-channel developer syndication across Facebook, Threads, YouTube, and LinkedIn, engineering penalty-free link architectures, real-time strict character verification, and automated browser launches.
+* **Key Architecture & Interview Highlights:**
+  - Designed an algorithmic 3-part Threads chain and pinned Facebook comment routing workflow to bypass social platform outbound-link reach penalties.
+  - Built real-time character verification meters calibrated for Threads Bio (150 chars), Threads Posts (500 chars), and Facebook Intro (101 chars) with 1-click clipboard staging.
+  - Implemented PowerShell 7 automation (`Start-SocialCommandCenter.ps1`) for synchronized multi-tab launching alongside an embedded FastMCP telemetry HUD (`Ctrl+M`) and fuzzy search (`Ctrl+K`).
+
 ---
 
 ### 4. ðŸŽ“ EdTech & Technical Certification Simulators

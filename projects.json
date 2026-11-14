@@ -638,5 +638,31 @@
                               "action":  "Built a Python-driven telemetry tracker paired with Three.js first-person virtual study halls featuring physics-based spatial navigation, automated audio feedback, and standardized UI token libraries.",
                               "result":  "Established 100% architectural consistency across all projects while creating 60fps interactive study environments used daily for certification drill and development."
                           }
+    },
+    {
+        "id":  "my-social-media",
+        "title":  "Social Media Command Center \u0026 Cross-Platform Syndication Hub",
+        "category":  "quant",
+        "categoryLabel":  "Quant \u0026 Cloud Automation",
+        "badge":  "Production-Ready",
+        "type":  "Enterprise Full-Screen Syndication Console \u0026 Multi-Platform Command Hub",
+        "description":  "Enterprise 100vw x 100vh command console presenting Chase R. Hamilton\u0027s 27 open-source repositories and YouTube media ecosystem across Facebook, Threads, YouTube, and LinkedIn, featuring algorithmic link penalty bypass, real-time character verification, and PowerShell 7 automation.",
+        "techStack":  [
+                          "JavaScript (ES6+)",
+                          "HTML5 / CSS3",
+                          "GitHub Primer Design Tokens",
+                          "High-Gloss Lacquer Optics",
+                          "PowerShell 7 Automation",
+                          "Web Speech API",
+                          "FastMCP Telemetry HUD"
+                      ],
+        "architecture":  "Engineered a high-contrast full-screen command dashboard with Meta outbound-link penalty bypass workflows (3-part Threads thread formatting and pinned Facebook comments), real-time strict character limit validation, 1-click clipboard staging, audio speech synthesis, and an automated PowerShell 7 multi-tab launcher (Start-SocialCommandCenter.ps1).",
+        "businessImpact":  "Maximizes organic developer reach and portfolio discoverability across major social platforms by eliminating outbound link reach penalties and streamlining content syndication across 27 open-source repositories.",
+        "interviewStar":  {
+                              "situation":  "Publishing technical engineering updates and repository releases across disparate social networks often suffers from aggressive algorithmic demotion due to outbound URL penalties and inconsistent character limits.",
+                              "task":  "Build an enterprise-grade command console to stage, validate, and syndicate multi-platform developer content while adhering to platform-specific algorithmic best practices.",
+                              "action":  "Developed an interactive 100vw x 100vh command center with real-time character meters for Threads and Facebook, automated multi-part post staging to bypass link penalties, PowerShell 7 orchestration, and FastMCP telemetry HUD.",
+                              "result":  "Standardized multi-channel syndication across 27 public repositories with zero external link penalties, sub-10ms filter latency, and 1-click automated workspace and browser deployment."
+                          }
     }
 ]
