@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Chase R. Hamilton
 ### **Senior Infrastructure & Storage Systems Engineer | Autonomous AI & FastMCP Platform Architect**
@@ -89,11 +89,20 @@ Here are the key systems and applications actively in development, demonstrating
   - Architected 9 production FastMCP servers running on Python 3.12 with uv packaging and typed Pydantic tool endpoints.
   - Controls native system hardware (NVIDIA nvml VRAM/power, OBS recording pipelines) giving autonomous agents deterministic operational access.
 
-#### [Autonomous AI Defense & Prompt Injection Firewall](https://github.com/Chammin00/portfolio)
+#### [Autonomous AI Defense & Prompt Injection Firewall](https://github.com/Chammin00/ai-defense-firewall)
 * **Category:** Adversarial LLM Security & Gateway Defense
 * **Tech Stack:** `Python 3.12` `FastAPI` `Regex Sanitizers` `Token Entropy Scoring` `Ollama`
 * **Overview:** Low-latency reverse proxy firewall intercepting adversarial prompt injections, system prompt extraction, and data exfiltration payloads prior to model inference.
 * **Business Impact:** Neutralizes 98%+ of simulated injection attacks with under 15ms latency overhead.
+
+#### [Gmail Email Organizer, Daily Digest & FastMCP Suite](https://github.com/Chammin00/email-organizer)
+* **Category:** Autonomous Email Triage Daemon & Model Context Protocol Server
+* **Tech Stack:** `Python 3.12` `uv` `Google Gmail API` `FastMCP` `YAML Rules Engine` `Windows Task Scheduler`
+* **Overview:** Hybrid email management engine and FastMCP server combining scheduled Python background automation, rule-based triage, automated scam/phishing defenses, and daily markdown digests with native conversational AI tools.
+* **Key Architecture & Interview Highlights:**
+  - Evaluates priority rules in `rules.yaml` to auto-quarantine scam and phishing emails into Gmail's 30-day trash.
+  - Generates automated daily executive digests summarizing action items and blocked scams.
+  - Exposes 6 production FastMCP tool endpoints allowing Antigravity agents to triage and search mail conversationally.
 
 #### [Autonomous Invoice & BOL Reconciliation Engine](https://github.com/Chammin00/invoice-bol-reconciliation)
 * **Category:** B2B AI Operations & Enterprise Accounting
@@ -143,7 +152,7 @@ Here are the key systems and applications actively in development, demonstrating
 * **Tech Stack:** `JavaScript SPA` `REST APIs` `PowerShell Automation` `High-Gloss Lacquer`
 * **Overview:** Comprehensive IT engineering knowledgebase and multi-cloud service outage dashboard with built-in certification cheat sheets (RHCSA, CCNA, VMware, DLM, PowerShell), task management, and Chai AI support assistant.
 
-#### [AWS Multi-Cloud Governance & Security Baseline](https://github.com/Chammin00/portfolio)
+#### [AWS Multi-Cloud Governance & Security Baseline](https://github.com/Chammin00/aws-enterprise-governance)
 * **Category:** Cloud Posture Watchdog & Drift Auditing
 * **Tech Stack:** `AWS CLI` `CloudWatch` `IAM Policy Engine` `JavaScript SPA` `Security Baseline`
 * **Overview:** Enterprise multi-cloud security watchdog and governance dashboard monitoring IAM permission drift, S3 public access boundaries, and CloudWatch log ingestion against AWS CIS Foundations Benchmarks.
@@ -211,6 +220,23 @@ Here are the key systems and applications actively in development, demonstrating
   - Built real-time character verification meters calibrated for Threads Bio (150 chars), Threads Posts (500 chars), and Facebook Intro (101 chars) with 1-click clipboard staging.
   - Implemented PowerShell 7 automation (`Start-SocialCommandCenter.ps1`) for synchronized multi-tab launching alongside an embedded FastMCP telemetry HUD (`Ctrl+M`) and fuzzy search (`Ctrl+K`).
 
+#### [OneDrive Highlight Clip Lifecycle Manager](https://github.com/Chammin00/onedrive-cleanup)
+* **Category:** Cloud Storage Lifecycle Optimization & Media Purge Engine
+* **Tech Stack:** `PowerShell 7` `CmdletBinding` `SHA-256 Hashing` `Windows Storage Attributes API` `FFmpeg`
+* **Overview:** Automated cloud storage lifecycle manager for gaming highlight captures and DVR media, executing cryptographic deduplication, selective dehydration, cold-storage archival, and retention purges.
+* **Key Architecture & Interview Highlights:**
+  - Modular PowerShell 7 automation routine (`Invoke-OneDriveClipLifecycle.ps1`) with strict parameter validation and dry-run safety.
+  - Cryptographic SHA-256 duplicate elimination and selective cloud dehydration via `attrib.exe +U -P`.
+  - Reclaims hundreds of gigabytes of SSD capacity while preserving uploaded gameplay records in `clip_upload_ledger.json`.
+
+#### [Antigravity Projects Master Refinement & Frontier Intelligence Hub](https://github.com/Chammin00/project-refinement)
+* **Category:** Cross-Project Architecture Matrix & Frontier Technology Intelligence
+* **Tech Stack:** `Markdown` `Architecture Specifications` `Mermaid.js` `PowerShell Automation`
+* **Overview:** Master repository continuously aggregating industry breakthroughs, open-source developments, hardware optimizations, and engineering best practices across the full 78-project workspace.
+* **Key Architecture & Interview Highlights:**
+  - Houses 6 comprehensive domain enhancement blueprints spanning AI/Agentic systems, cybersecurity, automation, and 3D media.
+  - Maintains an exhaustive Master Portfolio Action Matrix mapping cutting-edge stacks (NVFP4, FastMCP, WebGPU, .NET 10) to immediate implementation tasks.
+
 ---
 
 ### 4. ðŸŽ“ EdTech & Technical Certification Simulators
@@ -243,6 +269,15 @@ Here are the key systems and applications actively in development, demonstrating
   - Combines an automated Python habit tracking and cluster analysis daemon (`baseline_tracker.py`, `analyze_habits.py`) with three high-performance Three.js 3D spatial environments (Learning Hall, Grade School Hall, and Wobbly Playroom).
   - Features physics-based first-person spatial navigation, automated audio feedback, and standardized UI token libraries.
   - Enforces enterprise coding, security, and UI standards across 70+ repositories while delivering gamified, spatial 3D study suites that accelerate mastery in Linux, cloud architecture, and foundational learning.
+
+#### [Cram Exam TV Companion & Certification Training Environment](https://github.com/Chammin00/cert-training-guide)
+* **Category:** Interactive Fullscreen Exam Preparation & Multi-Track Study Suite
+* **Tech Stack:** `JavaScript (ES6+)` `HTML5 / CSS3` `GitHub Primer Dark Tokens` `Web Speech API` `PowerShell 7` `Task Scheduler`
+* **Overview:** Full-screen $100\text{vw} \times 100\text{vh}$ interactive certification training cockpit and 30-day curriculum integrated with 24/7 Cram Exam TV, browser TTS audio narration, and Windows Task Scheduler automation.
+* **Key Architecture & Interview Highlights:**
+  - Zero-interruption live video embedding with modular 30-day syllabus across Cybersecurity, IaC/Cloud, Cloud Data, and Linux.
+  - Built-in Pomodoro focus clock, real-time stream scratchpad with timestamps, and interactive L.O.C. (Latency, Operational Overhead, Cost) calculator.
+  - Automated daily study watchtimes via `Schedule-WatchSessions.ps1` and direct 1-click launch links to local simulation suites.
 
 ---
 

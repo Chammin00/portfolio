@@ -664,5 +664,105 @@
                               "action":  "Developed an interactive 100vw x 100vh command center with real-time character meters for Threads and Facebook, automated multi-part post staging to bypass link penalties, PowerShell 7 orchestration, and FastMCP telemetry HUD.",
                               "result":  "Standardized multi-channel syndication across 27 public repositories with zero external link penalties, sub-10ms filter latency, and 1-click automated workspace and browser deployment."
                           }
+    },
+    {
+        "id":  "cert-training-guide",
+        "title":  "Cram Exam TV Companion \u0026 Certification Training Environment",
+        "category":  "edtech",
+        "categoryLabel":  "EdTech \u0026 Cert Simulators",
+        "badge":  "Production-Ready",
+        "type":  "Interactive Fullscreen Exam Preparation \u0026 Multi-Track Study Suite",
+        "description":  "Comprehensive, 100vw x 100vh interactive certification training companion and 30-day curriculum integrated with 24/7 Cram Exam TV, browser TTS audio narration, and Windows Task Scheduler automation.",
+        "techStack":  [
+                          "JavaScript (ES6+)",
+                          "HTML5 / CSS3",
+                          "GitHub Primer Dark Tokens",
+                          "Web Speech API",
+                          "PowerShell 7",
+                          "Windows Task Scheduler",
+                          "L.O.C. Decision Engine"
+                      ],
+        "architecture":  "Full-screen responsive training cockpit featuring zero-interruption live video embedding, modular 30-day curriculum across 4 tracks (Cybersecurity, IaC/Cloud, Cloud Data, Linux/SysAdmin), Pomodoro focus intervals, interactive L.O.C. (Latency, Operational Overhead, Cost) architectural calculator, and persistent stream scratchpad with automated timestamping.",
+        "businessImpact":  "Accelerates certification mastery across CompTIA Security+, AWS DEA-C01, and RHCSA EX200 through structured active recall, automated grading, and cross-project simulation links.",
+        "interviewStar":  {
+                              "situation":  "Engineers preparing for multi-domain technical certifications struggle to maintain daily study discipline and bridge passive video learning with active recall and terminal practice.",
+                              "task":  "Build an integrated study companion that pairs 24/7 video streaming with structured syllabus tracking, interactive knowledge checks, decision engines, and local lab launching.",
+                              "action":  "Engineered a fullscreen learning dashboard adhering to GitHub Primer standards, integrated browser speech synthesis for acronyms, built a Pomodoro timer backed by localStorage, and automated daily study watchtimes via Schedule-WatchSessions.ps1.",
+                              "result":  "Created a unified, zero-distraction certification hub connecting 30 days of structured curriculum directly into local terminal simulators and mock exam suites."
+                          }
+    },
+    {
+        "id":  "onedrive-cleanup",
+        "title":  "OneDrive Highlight Clip Lifecycle Manager",
+        "category":  "quant",
+        "categoryLabel":  "Quant \u0026 Cloud Automation",
+        "badge":  "Production-Ready",
+        "type":  "PowerShell 7 Storage Lifecycle Engine \u0026 Media Optimization Daemon",
+        "description":  "Automated cloud storage lifecycle manager for gaming highlight captures and DVR media, executing cryptographic deduplication, selective dehydration, cold-storage archival, and retention purges.",
+        "techStack":  [
+                          "PowerShell 7",
+                          "CmdletBinding",
+                          "SHA-256 Cryptographic Hashing",
+                          "Windows Storage Attributes API",
+                          "FFmpeg (H.265/HEVC)",
+                          "JSON Ledger Management"
+                      ],
+        "architecture":  "Modular PowerShell 7 automation routine (Invoke-OneDriveClipLifecycle.ps1) with strict parameter validation and dry-run safety. Operates across 5 lifecycle stages: storage usage audit, SHA-256 byte-level duplicate elimination, cold-storage offloading with optional HEVC compression, local file dehydration via attrib.exe +U -P, and safe 30-day recycle bin purging.",
+        "businessImpact":  "Reclaims dozens of gigabytes of local SSD space and prevents OneDrive cloud storage quotas from exceeding limits without losing historical gameplay or media records.",
+        "interviewStar":  {
+                              "situation":  "High-bitrate Xbox DVR and gameplay captures rapidly consumed local C: SSD capacity and threatened OneDrive cloud storage quotas with unmanaged duplicate files.",
+                              "task":  "Develop an automated lifecycle management script that audits cloud vs. hydrated local disk usage, identifies redundant captures, offloads aged footage, and dehydrates local files safely.",
+                              "action":  "Built Invoke-OneDriveClipLifecycle.ps1 implementing enterprise PowerShell conventions, cryptographic SHA-256 verification, selective hydration management via Windows filesystem attributes, and H.265 compression during archive transfers.",
+                              "result":  "Automated recurring reclamation of hundreds of gigabytes across local drives and OneDrive storage, backed by a persistent clip_upload_ledger.json audit trail."
+                          }
+    },
+    {
+        "id":  "email-organizer",
+        "title":  "Gmail Email Organizer, Daily Digest \u0026 FastMCP Suite",
+        "category":  "ai",
+        "categoryLabel":  "AI \u0026 LLM Systems",
+        "badge":  "Production-Ready",
+        "type":  "Autonomous Email Triage Daemon \u0026 Model Context Protocol Server",
+        "description":  "Hybrid email management engine and FastMCP server combining scheduled Python background automation, rule-based triage, automated scam/phishing defenses, and daily markdown digests with native conversational AI tools.",
+        "techStack":  [
+                          "Python 3.12",
+                          "uv",
+                          "Google Gmail API (OAuth2)",
+                          "FastMCP / MCP Protocol",
+                          "YAML Rule Engine",
+                          "Windows Task Scheduler"
+                      ],
+        "architecture":  "Dual-mode architecture delivering scheduled morning batch triage alongside real-time Model Context Protocol (MCP) server endpoints. Evaluates hierarchical priority rules in rules.yaml, automatically routes spam and phishing to the trash, classifies action items and newsletters, archives low-priority mail to reach Inbox Zero, and compiles a daily markdown digest.",
+        "businessImpact":  "Eliminates email fatigue and blocks malicious phishing attempts while keeping high-priority communications surfaced and giving AI agents direct tools to triage mail conversationally.",
+        "interviewStar":  {
+                              "situation":  "High-volume inboxes accumulate hundreds of unread newsletters, promotional blasts, and phishing threats daily, burying critical infrastructure alerts and work communications.",
+                              "task":  "Design a hybrid system capable of running quiet morning background triage, generating daily digest reports, and exposing secure MCP tools for conversational agent assistance.",
+                              "action":  "Developed email_organizer using Python 3.12, OAuth2 token handling with secure credential isolation, customizable YAML rules, automated daily Task Scheduler integration, and 6 FastMCP tool endpoints.",
+                              "result":  "Consistently achieves Inbox Zero, auto-quarantines scam emails, generates clean daily executive digests, and gives Antigravity direct capabilities to search and organize mail."
+                          }
+    },
+    {
+        "id":  "project-refinement",
+        "title":  "Antigravity Projects Master Refinement \u0026 Frontier Intelligence Hub",
+        "category":  "quant",
+        "categoryLabel":  "Quant \u0026 Cloud Automation",
+        "badge":  "Production-Ready",
+        "type":  "Cross-Project Architecture Matrix \u0026 Frontier Technology Intelligence Hub",
+        "description":  "Master repository continuously aggregating industry breakthroughs, open-source developments, hardware optimizations, and engineering best practices from Google, NVIDIA, Cisco, Reddit, Linux, and GitHub across the full multi-project portfolio.",
+        "techStack":  [
+                          "Markdown",
+                          "System Architecture Specifications",
+                          "Mermaid.js",
+                          "PowerShell Automation",
+                          "Frontier Tech Benchmarking"
+                      ],
+        "architecture":  "Houses comprehensive cross-project architectural blueprints categorized into 6 core domains: AI \u0026 Agentic Systems, Security \u0026 Infrastructure, Automation \u0026 Productivity, XR Media \u0026 Gaming, Data Finance \u0026 Commerce, and the Master Portfolio Action Matrix tracking runtime stacks, active frontiers, and immediate implementation tasks.",
+        "businessImpact":  "Provides centralized architectural alignment, standardizes cutting-edge technology adoption (Blackwell NVFP4, FastMCP, WebGPU/TSL, .NET 10), and accelerates development velocity across all repositories.",
+        "interviewStar":  {
+                              "situation":  "Managing dozens of diverse repositories spanning AI, infrastructure, mobile, and graphics led to fragmented research, divergent coding standards, and redundant technical investigations.",
+                              "task":  "Architect a centralized master refinement hub and action matrix that synthesizes frontier engineering intelligence into concrete blueprints for every project.",
+                              "action":  "Structured domain-specific enhancement blueprints detailing exact implementations (e.g. TensorRT-LLM 1.4+, Margelo Nitro Modules, Three.js WebGPURenderer), along with an exhaustive project-by-project action matrix.",
+                              "result":  "Created a living master knowledge base ensuring cohesive design standards, state-of-the-art stack adoption, and rapid execution across the entire 78-project workspace."
+                          }
     }
 ]
