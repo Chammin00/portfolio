@@ -764,5 +764,32 @@
                               "action":  "Structured domain-specific enhancement blueprints detailing exact implementations (e.g. TensorRT-LLM 1.4+, Margelo Nitro Modules, Three.js WebGPURenderer), along with an exhaustive project-by-project action matrix.",
                               "result":  "Created a living master knowledge base ensuring cohesive design standards, state-of-the-art stack adoption, and rapid execution across the entire 78-project workspace."
                           }
+    },
+    {
+        "id": "stackpulse",
+        "title": "StackPulse (Fresh New TeCH): GitHub Trending Radar & Stack Builder",
+        "category": "quant",
+        "categoryLabel": "Quant & Cloud Automation",
+        "badge": "Production-Ready",
+        "type": "Open-Source Intelligence Console & Automated PowerShell Stack Builder",
+        "description": "Automated open-source intelligence platform and PWA (Fresh New TeCH / StackPulse) that mines daily GitHub trending and rising repositories via GitHub CLI, scores compatibility against the local Windows toolchain baseline, and compiles saved tools into runnable PowerShell setup scripts.",
+        "techStack": [
+            "Node.js 24",
+            "Vanilla JavaScript (ES6+)",
+            "HTML5 / CSS3",
+            "PWA / Service Worker",
+            "Server-Sent Events (SSE)",
+            "GitHub CLI (gh)",
+            "PowerShell 7",
+            "Vercel"
+        ],
+        "architecture": "Zero-dependency Node.js HTTP server (server.mjs) with fs.watch Server-Sent Events (/api/events) for live report streaming alongside a static build pipeline (build.mjs) compiling markdown briefings into dist/data/reports.json for Vercel and offline PWA delivery. Automated sync engine (sync-trending.mjs) queries GitHub search APIs and parses compatibility matrices in lib/report-parser.mjs.",
+        "businessImpact": "Eliminates manual discovery noise across fast-moving open-source ecosystems by surfacing vetted high-traction tools, open-source SaaS alternatives, and ready-to-run Windows setup commands in one daily briefing.",
+        "interviewStar": {
+            "situation": "Tracking high-momentum open-source tools and verifying whether new releases match local Windows developer runtimes requires tedious manual GitHub browsing and dependency checking.",
+            "task": "Build an automated daily GitHub intelligence console that discovers trending and newly rising repositories, evaluates local toolchain readiness, and generates one-click PowerShell installation bundles.",
+            "action": "Engineered a zero-dependency Node.js 24 server and static PWA build pipeline with automated gh CLI report generation, multi-horizon filtering (24h, 3d, 1w, 1m), an Open-Source Alternative Finder, and a Stack Script Builder exporting combined .ps1 scripts.",
+            "result": "Delivered a fast, deployable open-source radar console with real-time SSE report updates, 8+ days of backfilled intelligence briefings, and automated Windows Task Scheduler daily syncing."
+        }
     }
 ]

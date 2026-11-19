@@ -237,6 +237,15 @@ Here are the key systems and applications actively in development, demonstrating
   - Houses 6 comprehensive domain enhancement blueprints spanning AI/Agentic systems, cybersecurity, automation, and 3D media.
   - Maintains an exhaustive Master Portfolio Action Matrix mapping cutting-edge stacks (NVFP4, FastMCP, WebGPU, .NET 10) to immediate implementation tasks.
 
+#### [StackPulse (Fresh New TeCH): GitHub Trending Radar & Stack Builder](https://github.com/Chammin00/stackpulse)
+* **Category:** Open-Source Intelligence Console & Automated Stack Builder
+* **Tech Stack:** `Node.js 24` `Vanilla JS (ES6+)` `PWA / Service Worker` `SSE` `GitHub CLI (gh)` `PowerShell 7` `Vercel`
+* **Overview:** Automated open-source intelligence platform and progressive web app that queries daily GitHub trending and rising repositories, scores compatibility against the local Windows toolchain baseline, and compiles selected tools into runnable `.ps1` setup scripts.
+* **Key Architecture & Interview Highlights:**
+  - Zero-dependency Node.js 24 server (`server.mjs`) with live Server-Sent Events (`/api/events`) and a static build pipeline (`build.mjs` -> `./dist`) configured for Vercel deployment and offline PWA support.
+  - Automated daily ingestion (`scripts/sync-trending.mjs` & `Register-TrendingSchedule.ps1`) paired with `lib/report-parser.mjs` to map compatibility against Node.js 24, Python 3.12, `uv`, and `gh`.
+  - Interactive Open-Source Alternative Finder, multi-horizon tabs (24h, 3d, 1w, 1m), `Ctrl+K` search, sticky Tool Playbook inspector, and Stack Script Builder exporting combined PowerShell installation scripts.
+
 ---
 
 ### 4. ðŸŽ“ EdTech & Technical Certification Simulators
