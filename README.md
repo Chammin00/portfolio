@@ -246,6 +246,14 @@ Here are the key systems and applications actively in development, demonstrating
   - Automated daily ingestion (`scripts/sync-trending.mjs` & `Register-TrendingSchedule.ps1`) paired with `lib/report-parser.mjs` to map compatibility against Node.js 24, Python 3.12, `uv`, and `gh`.
   - Interactive Open-Source Alternative Finder, multi-horizon tabs (24h, 3d, 1w, 1m), `Ctrl+K` search, sticky Tool Playbook inspector, and Stack Script Builder exporting combined PowerShell installation scripts.
 
+#### [Bing Rewards Daily Search Automation](https://github.com/Chammin00/increase-my-bing-score)
+* **Category:** Desktop Browser & Task Scheduler Automation
+* **Tech Stack:** `PowerShell 5.1 / 7+` `CmdletBinding` `Microsoft Edge` `Windows Task Scheduler` `PSCustomObject`
+* **Overview:** Production-compliant PowerShell automation suite that launches randomized Microsoft Bing searches across a 200-query topic/modifier pool in Microsoft Edge and registers recurring daily runs in Windows Task Scheduler.
+* **Key Architecture & Interview Highlights:**
+  - Implements `[CmdletBinding(SupportsShouldProcess)]` across `Invoke-BingRewardsSearch.ps1` and `Register-BingRewardsTask.ps1` with strict parameter validation, `-WhatIf` dry-run safety, and structured `[PSCustomObject]` pipeline output.
+  - Dynamically locates `msedge.exe`, rotates randomized inter-search delays, targets configurable Edge profile directories, and provisions an automated daily `BingRewardsDailySearch` scheduled task.
+
 ---
 
 ### 4. ðŸŽ“ EdTech & Technical Certification Simulators

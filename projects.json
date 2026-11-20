@@ -791,5 +791,29 @@
             "action": "Engineered a zero-dependency Node.js 24 server and static PWA build pipeline with automated gh CLI report generation, multi-horizon filtering (24h, 3d, 1w, 1m), an Open-Source Alternative Finder, and a Stack Script Builder exporting combined .ps1 scripts.",
             "result": "Delivered a fast, deployable open-source radar console with real-time SSE report updates, 8+ days of backfilled intelligence briefings, and automated Windows Task Scheduler daily syncing."
         }
+    },
+    {
+        "id": "increase-my-bing-score",
+        "title": "Bing Rewards Daily Search Automation",
+        "category": "quant",
+        "categoryLabel": "Quant & Cloud Automation",
+        "badge": "Deployable",
+        "type": "PowerShell Browser & Task Scheduler Automation Suite",
+        "description": "PowerShell automation suite that generates unique Bing search queries across a 200-combination topic/modifier pool, executes randomized Microsoft Edge searches, and registers a daily Windows Task Scheduler job.",
+        "techStack": [
+            "PowerShell 5.1 / 7+",
+            "CmdletBinding",
+            "Microsoft Edge",
+            "Windows Task Scheduler",
+            "PSCustomObject"
+        ],
+        "architecture": "Two-script modular PowerShell architecture separating execution (Invoke-BingRewardsSearch.ps1) from scheduling (Register-BingRewardsTask.ps1). Uses [CmdletBinding(SupportsShouldProcess)] for -WhatIf safety, Set-StrictMode -Version Latest, explicit Edge executable discovery, randomized inter-search jitter, and structured PSCustomObject telemetry output.",
+        "businessImpact": "Demonstrates clean, cross-version PowerShell automation adhering to enterprise cmdlet standards, strict parameter validation, and unattended Windows Task Scheduler lifecycle management.",
+        "interviewStar": {
+            "situation": "Manual daily browser search routines are repetitive and error-prone when executed without randomized pacing or resilient executable discovery.",
+            "task": "Build a standards-compliant PowerShell automation suite compatible with both PowerShell 5.1 and 7+ that safely orchestrates Edge searches and daily scheduling.",
+            "action": "Engineered Invoke-BingRewardsSearch.ps1 and Register-BingRewardsTask.ps1 with SupportsShouldProcess dry-run support, strict type validation, randomized query pools, and scheduled task provisioning.",
+            "result": "Delivered a zero-dependency Windows automation utility emitting structured PSCustomObject records with unattended daily Task Scheduler execution."
+        }
     }
 ]
